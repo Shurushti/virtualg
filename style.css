@@ -1,0 +1,14 @@
+/* Reset default styles */
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Styling for interactive text */
+a-entity {
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+}
